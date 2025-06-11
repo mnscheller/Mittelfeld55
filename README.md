@@ -2,7 +2,7 @@
 
 Working on some Stuff
 
-Currently learning .Net Maui for the WorldSkills Germany Competition in 2025! (Ongoing)
+Currently learning .Net Maui, ASP.Net and SqlServer for the WorldSkills Competition in <span style="background-color:#7B0323">Skill 09</span>! (Ongoing)
 
 
 ## Achievements in Competitions
